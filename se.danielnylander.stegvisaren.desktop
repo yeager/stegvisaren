@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=ustegvisaren
+Name=Step Guide
+Name[sv]=Stegvisaren
 Comment=Break down tasks into visual steps for children with ADHD/autism
 Comment[sv]=Bryt ner uppgifter i visuella steg
 Exec=stegvisaren
