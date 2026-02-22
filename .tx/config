@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:stegvisaren:r:stegvisaren-pot]
+file_filter = po/<lang>.po
+source_file = po/stegvisaren.pot
+source_lang = en
+type = PO
