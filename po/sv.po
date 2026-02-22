@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stegvisaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stegvisaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"PO-Revision-Date: 2026-02-22 16:22+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305243/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/stegvisaren/main.py:21
+msgid "Brush Teeth"
+msgstr "Borsta tänderna"
+
+#: src/stegvisaren/main.py:21
+msgid "Get toothbrush"
+msgstr "Ta tandborsten"
+
+#: src/stegvisaren/main.py:21
+msgid "Add toothpaste"
+msgstr "Lägg på tandkräm"
+
+#: src/stegvisaren/main.py:21
+msgid "Brush top teeth"
+msgstr "Borsta övre tänder"
+
+#: src/stegvisaren/main.py:21
+msgid "Brush bottom teeth"
+msgstr "Borsta nedre tänder"
+
+#: src/stegvisaren/main.py:21
+msgid "Spit and rinse"
+msgstr "Spotta och skölj"
+
+#: src/stegvisaren/main.py:21
+msgid "Done!"
+msgstr "Färdig!"
+
+#: src/stegvisaren/main.py:22
+msgid "Get Dressed"
+msgstr "Klä på sig"
+
+#: src/stegvisaren/main.py:22
+msgid "Underwear"
+msgstr "Underkläder"
+
+#: src/stegvisaren/main.py:22
+msgid "Socks"
+msgstr "Sockar"
+
+#: src/stegvisaren/main.py:22
+msgid "Pants"
+msgstr "Byxor"
+
+#: src/stegvisaren/main.py:22
+msgid "Shirt"
+msgstr "Tröja"
+
+#: src/stegvisaren/main.py:22
+msgid "Check in mirror"
+msgstr "Titta i spegeln"
+
+#: src/stegvisaren/main.py:23
+msgid "Pack School Bag"
+msgstr "Packa skolväskan"
+
+#: src/stegvisaren/main.py:23
+msgid "Books"
+msgstr "Böcker"
+
+#: src/stegvisaren/main.py:23
+msgid "Pencil case"
+msgstr "Pennfack"
+
+#: src/stegvisaren/main.py:23
+msgid "Lunch box"
+msgstr "Lunchlåda"
+
+#: src/stegvisaren/main.py:23
+msgid "Water bottle"
+msgstr "Vattenflaska"
+
+#: src/stegvisaren/main.py:23
+msgid "Close bag"
+msgstr "Stäng väskan"
+
+#: src/stegvisaren/main.py:24
+msgid "Bedtime"
+msgstr "Läggdags"
+
+#: src/stegvisaren/main.py:24
+msgid "Put on pajamas"
+msgstr "Ta på dig pyjamas"
+
+#: src/stegvisaren/main.py:24
+msgid "Brush teeth"
+msgstr "Borsta tänder"
+
+#: src/stegvisaren/main.py:24
+msgid "Go to bathroom"
+msgstr "Gå till badrummet"
+
+#: src/stegvisaren/main.py:24
+msgid "Get into bed"
+msgstr "Hoppa i säng"
+
+#: src/stegvisaren/main.py:24
+msgid "Read a story"
+msgstr "Läs en saga"
+
+#: src/stegvisaren/main.py:24
+msgid "Lights off"
+msgstr "Släck ljuset"
+
+#: src/stegvisaren/main.py:30 src/stegvisaren/main.py:176
+msgid "Stegvisaren"
+msgstr "Stegvisaren"
+
+#: src/stegvisaren/main.py:38
+msgid "About"
+msgstr "Om"
+
+#: src/stegvisaren/main.py:52
+msgid "What do you need to do?"
+msgstr "Vad behöver du göra?"
+
+#: src/stegvisaren/main.py:71
+#, python-format
+msgid "%d steps"
+msgstr "%d steg"
+
+#: src/stegvisaren/main.py:80
+msgid "Tasks"
+msgstr "Uppgifter"
+
+#: src/stegvisaren/main.py:110
+msgid "✓ Done!"
+msgstr "✓ Färdig!"
+
+#: src/stegvisaren/main.py:118
+msgid "← Back"
+msgstr "← Bakåt"
+
+#: src/stegvisaren/main.py:123
+msgid "Steps"
+msgstr "Steg"
+
+#: src/stegvisaren/main.py:131
+msgid "All done! Great job!"
+msgstr "Allt klart! Bra jobbat!"
+
+#: src/stegvisaren/main.py:134
+msgid "Do something else"
+msgstr "Gör något annat"
+
+#: src/stegvisaren/main.py:138
+msgid "Done"
+msgstr "Klar"
+
+#: src/stegvisaren/main.py:155
+#, python-format
+msgid "Step %d of %d"
+msgstr "Steg %d av %d"
+
+#: src/stegvisaren/main.py:179
+msgid "Break down tasks into visual steps"
+msgstr "Bryt ner uppgifter i visuella steg"
